@@ -26,6 +26,7 @@
         android:layout_marginLeft="52dp"
         android:layout_marginTop="32dp"
         android:text="@string/later_then_dinner"
+        android:onClick="later_than_dinner"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/breakfast" />
 
@@ -37,6 +38,7 @@
         android:layout_marginLeft="16dp"
         android:layout_marginTop="32dp"
         android:text="@string/drink"
+        android:onClick="drink"
         app:layout_constraintStart_toEndOf="@+id/later_than_dinner"
         app:layout_constraintTop_toBottomOf="@+id/lunch" />
 
@@ -48,6 +50,7 @@
         android:layout_marginLeft="16dp"
         android:layout_marginTop="72dp"
         android:text="@string/dinner"
+        android:onClick="dinner"
         app:layout_constraintStart_toEndOf="@+id/lunch"
         app:layout_constraintTop_toBottomOf="@+id/map" />
 

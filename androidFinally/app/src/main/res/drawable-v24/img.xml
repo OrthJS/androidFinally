@@ -3,4 +3,21 @@
     <item android:maxLevel="1" android:drawable="@drawable/first" />
     <item android:maxLevel="2" android:drawable="@drawable/second" />
     <item android:maxLevel="3" android:drawable="@drawable/third" />
+    <item android:maxLevel="4" android:drawable="@drawable/forth" />
+    <item android:maxLevel="10" android:drawable="@drawable/ten" />
+    <item android:maxLevel="11" android:drawable="@drawable/shop_eleven" />
+    <item android:maxLevel="12" android:drawable="@drawable/twelve" />
+    <item android:maxLevel="13" android:drawable="@drawable/thirteen" />
+    <item android:maxLevel="20" android:drawable="@drawable/shop_twenty" />
+    <item android:maxLevel="21" android:drawable="@drawable/shop_twenty_first" />
+    <item android:maxLevel="22" android:drawable="@drawable/shop_twenty_two" />
+    <item android:maxLevel="23" android:drawable="@drawable/shop_twenty_third" />
+    <item android:maxLevel="30" android:drawable="@drawable/shop_thirty" />
+    <item android:maxLevel="31" android:drawable="@drawable/shop_thirty_first" />
+    <item android:maxLevel="32" android:drawable="@drawable/shop_thirty_second" />
+    <item android:maxLevel="33" android:drawable="@drawable/shop_thirty_third" />
+    <item android:maxLevel="34" android:drawable="@drawable/shop_thirty_forth" />
+    <item android:maxLevel="40" android:drawable="@drawable/shop_forty"/>
+    <item android:maxLevel="41" android:drawable="@drawable/shop_forty_first" />
+    <item android:maxLevel="42" android:drawable="@drawable/shop_forty_second" />
 </level-list>
