@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidFinally</string>
+    <string name="breakfast">早餐</string>
+    <string name="lunch">午餐</string>
+    <string name="dinner">晚餐</string>
+    <string name="later_then_dinner">消夜</string>
+    <string name="drink">飲料</string>
+    <string name="todo">TODO</string>
+</resources>
