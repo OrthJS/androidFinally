@@ -6,4 +6,10 @@
     <string name="later_then_dinner">消夜</string>
     <string name="drink">飲料</string>
     <string name="todo">TODO</string>
+    <string name="shop_name">店名：</string>
+    <string name="menu">菜單：</string>
+    <string name="address">地址：</string>
+    <string name="tag">類別：</string>
+    <string name="back">Back</string>
+
 </resources>
