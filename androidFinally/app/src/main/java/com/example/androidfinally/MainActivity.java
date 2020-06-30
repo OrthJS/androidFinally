@@ -152,4 +152,8 @@ public class MainActivity extends AppCompatActivity {
         intent.putExtra("shop",drink.get(x));
         startActivity(intent);
     }
+
+    public void insert(View view) {
+
+    }
 }
